@@ -1,0 +1,2 @@
+BASE_DIR = "/tmp/test1"
+MAX_FILE_SIZE = 5242880  # 5MB
